@@ -1,4 +1,4 @@
-# Aula4 - Introdução a Controles Swing
+# Aula5 - Introdução a Controles Swing
 Objetivo: Apresentar o funcionamento dos controles básicos do pacote gráfico do java swing
 
 * Utilize o protótipo a seguir como referência <br />
